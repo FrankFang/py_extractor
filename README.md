@@ -5,7 +5,7 @@ py_extractor
 
 用法
 -----------
-python extractor.py http://frankfang.com
+`python extractor.py http://frankfang.com`
 
 Todo
 ------------
